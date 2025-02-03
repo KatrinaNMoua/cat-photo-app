@@ -1,4 +1,4 @@
-# cat-photo-app
+# photo-gallery-km-368
 Deploying Free Code Camp's cat photo app using Netlify.
 
 **Tools Used**
